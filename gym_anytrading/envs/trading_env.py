@@ -9,6 +9,7 @@ import matplotlib.pyplot as plt
 class Actions(Enum):
     Sell = 0
     Buy = 1
+    Nothing = 2
 
 
 class Positions(Enum):
